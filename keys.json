@@ -7,13 +7,21 @@
       "type": "day",
       "days": 30,
       "created_time": "2025/11/17 下午11:28:01",
-      "status": "unused",
-      "user_id": "",
-      "activate_time": "",
-      "expire_time": ""
+      "status": "active",
+      "user_id": "chw21354",
+      "activate_time": "2025/11/17 下午11:54:52",
+      "expire_time": "2025/12/17 下午11:54:52"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "user_id": "chw21354",
+      "key": "JYC-P4B9-YWQC-J6RK-12VT",
+      "activate_time": "2025/11/17 下午11:54:52",
+      "expire_time": "2025/12/17 下午11:54:52",
+      "status": "active"
+    }
+  ],
   "version": "2.0.0",
-  "last_updated": "2025/11/17 下午11:28:01"
+  "last_updated": "2025/11/17 下午11:54:52"
 }
