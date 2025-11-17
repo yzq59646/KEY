@@ -1,27 +1,8 @@
 {
   "active": true,
   "message": "By教主 作者QQ3698091617",
-  "keys": [
-    {
-      "key": "JYC-EDWD-U9RG-344Y-45JJ",
-      "type": "permanent",
-      "days": 1000,
-      "created_time": "2025/11/17 下午11:25:22",
-      "status": "active",
-      "user_id": "chw21354",
-      "activate_time": "2025/11/17 下午11:25:58",
-      "expire_time": "2028/8/13 下午11:25:58"
-    }
-  ],
-  "users": [
-    {
-      "user_id": "chw21354",
-      "key": "JYC-EDWD-U9RG-344Y-45JJ",
-      "activate_time": "2025/11/17 下午11:25:58",
-      "expire_time": "2028/8/13 下午11:25:58",
-      "status": "active"
-    }
-  ],
+  "keys": [],
+  "users": [],
   "version": "2.0.0",
-  "last_updated": "2025/11/17 下午11:25:58"
+  "last_updated": "2025/11/17 下午11:27:27"
 }
