@@ -1,27 +1,8 @@
 {
   "active": true,
   "message": "By教主 作者QQ3698091617",
-  "keys": [
-    {
-      "key": "JYC-EUIM-BLRY-P4HD-SZ98",
-      "type": "permanent",
-      "days": 0,
-      "created_time": "2025/11/17 下午11:21:27",
-      "status": "active",
-      "user_id": "chw21354",
-      "activate_time": "2025/11/17 下午11:23:00",
-      "expire_time": "2025/11/17 下午11:23:00"
-    }
-  ],
-  "users": [
-    {
-      "user_id": "chw21354",
-      "key": "JYC-EUIM-BLRY-P4HD-SZ98",
-      "activate_time": "2025/11/17 下午11:23:00",
-      "expire_time": "2025/11/17 下午11:23:00",
-      "status": "active"
-    }
-  ],
+  "keys": [],
+  "users": [],
   "version": "2.0.0",
-  "last_updated": "2025/11/17 下午11:23:00"
+  "last_updated": "2025/11/17 下午11:23:44"
 }
